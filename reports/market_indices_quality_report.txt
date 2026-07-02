@@ -1,0 +1,7 @@
+==================================================
+MARKET_INDICES DATA QUALITY REPORT
+==================================================
+
+rows_before: 2346
+duplicates_removed: 0
+rows_after: 2346

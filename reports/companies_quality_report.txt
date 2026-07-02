@@ -1,0 +1,7 @@
+==================================================
+COMPANIES DATA QUALITY REPORT
+==================================================
+
+rows_before: 30
+duplicates_removed: 0
+rows_after: 30

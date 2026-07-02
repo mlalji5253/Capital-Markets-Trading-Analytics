@@ -1,0 +1,31 @@
+company_id,stock_symbol,company_name,sector,market_cap_billion
+1,HDFCBANK,HDFC Bank,Banking,516956
+2,ICICIBANK,ICICI Bank,Banking,154902
+3,SBIN,State Bank of India,Banking,1203556
+4,AXISBANK,Axis Bank,Banking,1077150
+5,KOTAKBANK,Kotak Mahindra Bank,Banking,986213
+6,TCS,Tata Consultancy Services,Information Technology,635264
+7,INFY,Infosys,Information Technology,479895
+8,WIPRO,Wipro,Information Technology,2337433
+9,HCLTECH,HCL Technologies,Information Technology,414647
+10,TECHM,Tech Mahindra,Information Technology,1819668
+11,MARUTI,Maruti Suzuki,Automobile,183306
+12,TATAMOTORS,Tata Motors,Automobile,174978
+13,M&M,Mahindra & Mahindra,Automobile,442986
+14,BAJAJAUTO,Bajaj Auto,Automobile,967034
+15,HEROMOTOCO,Hero MotoCorp,Automobile,1025850
+16,SUNPHARMA,Sun Pharma,Pharmaceuticals,2169613
+17,DRREDDY,Dr. Reddy's,Pharmaceuticals,161299
+18,CIPLA,Cipla,Pharmaceuticals,2404032
+19,LUPIN,Lupin,Pharmaceuticals,883985
+20,AUROPHARMA,Aurobindo Pharma,Pharmaceuticals,2335650
+21,RELIANCE,Reliance Industries,Energy,1809593
+22,ONGC,ONGC,Energy,974594
+23,IOC,Indian Oil,Energy,1934119
+24,BPCL,BPCL,Energy,1216816
+25,NTPC,NTPC,Energy,77257
+26,HINDUNILVR,Hindustan Unilever,FMCG,719659
+27,ITC,ITC,FMCG,1822573
+28,NESTLEIND,Nestle India,FMCG,1477114
+29,DABUR,Dabur,FMCG,1215476
+30,BRITANNIA,Britannia,FMCG,702128

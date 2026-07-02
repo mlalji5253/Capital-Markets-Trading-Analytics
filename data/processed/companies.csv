@@ -1,0 +1,31 @@
+company_id,stock_symbol,company_name,sector,market_cap_billion,market_cap_category
+1,Hdfcbank,Hdfc Bank,Banking,516956,Large Cap
+2,Icicibank,Icici Bank,Banking,154902,Large Cap
+3,Sbin,State Bank Of India,Banking,1203556,Large Cap
+4,Axisbank,Axis Bank,Banking,1077150,Large Cap
+5,Kotakbank,Kotak Mahindra Bank,Banking,986213,Large Cap
+6,Tcs,Tata Consultancy Services,Information Technology,635264,Large Cap
+7,Infy,Infosys,Information Technology,479895,Large Cap
+8,Wipro,Wipro,Information Technology,2337433,Large Cap
+9,Hcltech,Hcl Technologies,Information Technology,414647,Large Cap
+10,Techm,Tech Mahindra,Information Technology,1819668,Large Cap
+11,Maruti,Maruti Suzuki,Automobile,183306,Large Cap
+12,Tatamotors,Tata Motors,Automobile,174978,Large Cap
+13,M&M,Mahindra & Mahindra,Automobile,442986,Large Cap
+14,Bajajauto,Bajaj Auto,Automobile,967034,Large Cap
+15,Heromotoco,Hero Motocorp,Automobile,1025850,Large Cap
+16,Sunpharma,Sun Pharma,Pharmaceuticals,2169613,Large Cap
+17,Drreddy,Dr. Reddy'S,Pharmaceuticals,161299,Large Cap
+18,Cipla,Cipla,Pharmaceuticals,2404032,Large Cap
+19,Lupin,Lupin,Pharmaceuticals,883985,Large Cap
+20,Auropharma,Aurobindo Pharma,Pharmaceuticals,2335650,Large Cap
+21,Reliance,Reliance Industries,Energy,1809593,Large Cap
+22,Ongc,Ongc,Energy,974594,Large Cap
+23,Ioc,Indian Oil,Energy,1934119,Large Cap
+24,Bpcl,Bpcl,Energy,1216816,Large Cap
+25,Ntpc,Ntpc,Energy,77257,Large Cap
+26,Hindunilvr,Hindustan Unilever,Fmcg,719659,Large Cap
+27,Itc,Itc,Fmcg,1822573,Large Cap
+28,Nestleind,Nestle India,Fmcg,1477114,Large Cap
+29,Dabur,Dabur,Fmcg,1215476,Large Cap
+30,Britannia,Britannia,Fmcg,702128,Large Cap

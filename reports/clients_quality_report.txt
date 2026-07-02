@@ -1,0 +1,7 @@
+==================================================
+CLIENTS DATA QUALITY REPORT
+==================================================
+
+rows_before: 10000
+duplicates_removed: 0
+rows_after: 10000

@@ -1,0 +1,7 @@
+==================================================
+STOCK_PRICES DATA QUALITY REPORT
+==================================================
+
+rows_before: 23460
+duplicates_removed: 0
+rows_after: 23460
